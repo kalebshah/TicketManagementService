@@ -16,9 +16,9 @@ You can execute the program in the following ways:
 
 TMS was purely written in java and therefore uses java library and its packages extensively, the most used packages include the following - 
 
-* [javax . swing] - Offers lightweight tcomponents that run same accross all platforms
-* [java . awt] - Contains all the classes for creating user interfaces and graphics
-* [java . io] - Provides for system input and output through data streams, serialization and the file system
+* [javax.swing] - Offers lightweight tcomponents that run same accross all platforms
+* [java.awt] - Contains all the classes for creating user interfaces and graphics
+* [java.io] - Provides for system input and output through data streams, serialization and the file system
 
 ### Login Help
 
