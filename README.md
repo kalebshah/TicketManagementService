@@ -29,6 +29,7 @@ A default login has been set for system adminsitrators
 ![Ticket Management Service Demo](sample/GIF1.gif)
 ![Ticket Management Service Demo](sample/GIF2.gif)
 ![Ticket Management Service Demo](sample/GIF3.gif)
+![Ticket Management Service Demo](sample/GIF4.gif)
 
 ### Installation
 
