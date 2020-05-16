@@ -8,6 +8,7 @@ TMS is a localised object oriented software that helps facilitate tasks for team
 
 You can execute the program in the following ways:
   - Execute this file through a simple .jar file
+  (If you are using the .jar file, please create a new folder and put the file in it so that any local files created remain in the folder of the .jar file)
   - Run the login.java file to execute the program
   - Execute the program using javac in the command line
 
