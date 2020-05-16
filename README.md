@@ -26,7 +26,9 @@ A default login has been set for system adminsitrators
  Password | admin
 
 ### Demo
-
+![Ticket Management Service Demo](sample/GIF1.gif)
+![Ticket Management Service Demo](sample/GIF2.gif)
+![Ticket Management Service Demo](sample/GIF3.gif)
 
 ### Installation
 
