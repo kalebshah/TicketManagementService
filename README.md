@@ -40,11 +40,6 @@ TMS requires Java 8 or higher installed on the local operating system to operate
 
 This project is a stepping stone for our goal. Our aim in the future is to create a customer management service that facilitates sales between B2B companies by sending personalized emails to clients accounting for their personal preference. It tracks previous sales information to offer users with useful visualizations and trends to make more informed decesions. It will further categorize users correspondence with clients into a seamless and easy to maneuver GUI that is cross platform as well as functional over the web. This program will be compatible with popular business platforms.
 
-
-### Purpose of the project
-
-This project is a stepping stone for our goal. Our aim in the future is to create a customer management service that facilitates sales between B2B companies by sending personalized emails to clients accounting for their personal preference. It tracks previous sales information to offer users with useful visualizations and trends to make more informed decesions. It will further categorize users correspondence with clients into a seamless and easy to maneuver GUI that is cross platform as well as functional over the web. This program will be compatible with popular business platforms.
-
 ### Authors
 
 Kaleb Shah 
